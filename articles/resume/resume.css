@@ -1,0 +1,35 @@
+body{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin: 50px;
+}
+.main-image{
+  border:solid 4px black;
+  border-radius:50%;
+
+}
+h1{
+  font-family: cursive;
+  font-size:xx-large;
+  padding:5px;
+
+}
+.section-title{
+  text-transform:uppercase;
+  background-color:#e2e2e2;
+
+}
+
+div.skills {
+  padding: 0;
+  text-align: left;
+}
+
+.skills h4 {
+  border-radius: 5px;
+  display: inline-block;
+  background: #856809;
+  color: white;
+  padding: 5px 10px;
+  margin: 2px;
+}
+

@@ -1,0 +1,36 @@
+/* Global Layout Set-up */
+* { 
+    box-sizing: border-box;
+  }
+    
+  body {
+    margin: 0;
+    padding: 0;
+    text-align:left;
+    font-family: 'Roboto', sans-serif;
+    color: #222;
+    background: #f0f6f7;
+  }
+  /* Link Styles */
+.title{
+    margin-left: 30px;
+    text-align: center;
+    font-family:fantasy;
+    color: rgb(168, 73, 57);
+    background: white;
+    max-width: 500px;
+    border-radius: 6px;
+}
+  .card {
+    margin: 30px;
+    padding: 20px 40px 40px;
+    max-width: 500px;
+    text-align: left;
+    background: #fff;
+    border-bottom: 4px solid #ccc;
+    border-radius: 6px;
+  }
+
+.card:hover {
+  border-color: #ff99ff;
+}
