@@ -1,0 +1,12 @@
+* {
+    box-sizing:border-box;
+    /* border:1px solid red; */
+}
+
+.row{
+    justify-content: center;
+}
+
+.fs1{
+    font-size:x-large;
+}
